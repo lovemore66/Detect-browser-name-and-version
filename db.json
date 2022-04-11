@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "countries": [
+    {
+      "id": 1,
+      "name": "china",
+      "flag": "a/a4/Flag_of_the_United_States.svg",
+      "area": "9629091",
+      "population": 324459463
+    },
+    {
+      "id": 2,
+      "name": "canada",
+      "flag": "a/a4/Flag_of_the_United_States.svg",
+      "area": "4546",
+      "population": 324459463
+    },
+    {
+      "id": 3,
+      "name": "United States of america",
+      "flag": "a/a4/Flag_of_the_United_States.svg",
+      "area": "29091",
+      "population": 324459463
+    },
+    {
+      "id": 4,
+      "name": "China",
+      "flag": "a/a4/Flag_of_the_United_States.svg",
+      "area": "9629091",
+      "population": 324459463
+    },
+    {
+      "id": 5,
+      "name": "South Africa",
+      "flag": "a/a4/Flag_of_the_United_States.svg",
+      "area": "9905",
+      "population": 324459463
+    },
+    {
+      "id": 6,
+      "name": "United Arab Emirates",
+      "flag": "a/a4/Flag_of_the_United_States.svg",
+      "area": "9629091",
+      "population": 324459463
+    }
+  ]
+}
